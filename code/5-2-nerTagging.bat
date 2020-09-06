@@ -1,0 +1,1 @@
+java -cp "*" -Xmx5g edu.stanford.nlp.pipeline.StanfordCoreNLP -props StanfordCoreNLP-german.properties -annotators tokenize,ssplit,pos,lemma,ner -outputDirectory Romankorpus_18_Jahrhundert_NER -replaceExtension -filelist C:\Rivalinnen\data\filelists\filelist_Romankorpus_18_Jahrhundert.txt
