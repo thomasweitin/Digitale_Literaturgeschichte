@@ -1,0 +1,14 @@
+C:\Rivalinnen\corpora/Buchholz/Ahlefeld_Erna_1820.txt
+C:\Rivalinnen\corpora/Buchholz/Ahlefeld_Marie_Mueller_1799.txt
+C:\Rivalinnen\corpora/Buchholz/Buchholz_Giftmischerin_1803.txt
+C:\Rivalinnen\corpora/Buchholz/Buchholz_Hermes_1810.txt
+C:\Rivalinnen\corpora/Buchholz/Buchholz_Leviathan_1805.txt
+C:\Rivalinnen\corpora/Buchholz/Goethe_Lehrjahre_1795.txt
+C:\Rivalinnen\corpora/Buchholz/Goethe_Wahlverwandschaften_1809.txt
+C:\Rivalinnen\corpora/Buchholz/Goethe_Wanderjahre_1821.txt
+C:\Rivalinnen\corpora/Buchholz/Unger_Albert-und-Albertine_1804.txt
+C:\Rivalinnen\corpora/Buchholz/Unger_Bekenntnisse_1806.txt
+C:\Rivalinnen\corpora/Buchholz/Unger_Julchen-Gruenthal_1798.txt
+C:\Rivalinnen\corpora/Buchholz/Wieland_Agathon_1794.txt
+C:\Rivalinnen\corpora/Buchholz/Wieland_Aristipp_1801.txt
+C:\Rivalinnen\corpora/Buchholz/Wieland_Peregrinus_1788.txt

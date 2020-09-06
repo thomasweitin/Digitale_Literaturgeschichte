@@ -1,0 +1,14 @@
+C:\Rivalinnen\corpora/Romankorpus_gesamt/all
+C:\Rivalinnen\corpora/Romankorpus_gesamt/all_predictions_all_values_seed100.csv
+C:\Rivalinnen\corpora/Romankorpus_gesamt/all_predictions_all_values_seed101.csv
+C:\Rivalinnen\corpora/Romankorpus_gesamt/all_predictions_all_values_seed102.csv
+C:\Rivalinnen\corpora/Romankorpus_gesamt/all_predictions_all_values_seed103.csv
+C:\Rivalinnen\corpora/Romankorpus_gesamt/female
+C:\Rivalinnen\corpora/Romankorpus_gesamt/male
+C:\Rivalinnen\corpora/Romankorpus_gesamt/Overview_caret_10fold_cv_4cases_f1.xlsx
+C:\Rivalinnen\corpora/Romankorpus_gesamt/results_3cases
+C:\Rivalinnen\corpora/Romankorpus_gesamt/results_4cases
+C:\Rivalinnen\corpora/Romankorpus_gesamt/Romankorpus_gesamt_CA_3000_MFWs_Culled_20__Classic Delta_EDGES.csv
+C:\Rivalinnen\corpora/Romankorpus_gesamt/stylo_config.txt
+C:\Rivalinnen\corpora/Romankorpus_gesamt/table_with_frequencies.txt
+C:\Rivalinnen\corpora/Romankorpus_gesamt/wordlist.txt

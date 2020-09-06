@@ -1,0 +1,4 @@
+C:\Rivalinnen\corpora/Romankorpus_Oppose/seed1
+C:\Rivalinnen\corpora/Romankorpus_Oppose/seed2
+C:\Rivalinnen\corpora/Romankorpus_Oppose/seed3
+C:\Rivalinnen\corpora/Romankorpus_Oppose/seed4

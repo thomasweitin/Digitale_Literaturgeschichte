@@ -1,0 +1,4 @@
+C:\Rivalinnen\corpora/Romankorpus_Classifier/Romankorpus_classify_seed-1
+C:\Rivalinnen\corpora/Romankorpus_Classifier/Romankorpus_classify_seed-2
+C:\Rivalinnen\corpora/Romankorpus_Classifier/Romankorpus_classify_seed-3
+C:\Rivalinnen\corpora/Romankorpus_Classifier/Romankorpus_classify_seed-4
