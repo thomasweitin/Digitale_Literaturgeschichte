@@ -1,0 +1,222 @@
+
+
+
+m_Fischer_Christian_Hannchen_1800 	-->	 w
+m_Moritz_Hartknopfs-Predigerjahre_1790 	-->	 w
+m_Prevost-dExiles_Manon-Lescaut_1731 	-->	 w
+w_Fischer_Margarethe_1812 	-->	 m
+w_Froelich_Kentucky_1819 	-->	 m
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+100 MFW , culled @ 20%,  22 of 28	(78.6%)
+
+
+
+w_Fischer_Margarethe_1812 	-->	 m
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+200 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Cleland_Fanny-Hill_1748 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+300 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Cleland_Fanny-Hill_1748 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+400 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+500 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Fouque_Resignation_1829 	-->	 m
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+600 MFW , culled @ 20%,  25 of 28	(89.3%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+700 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+800 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+900 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1000 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1100 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1200 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1300 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1400 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1500 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1600 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1700 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1800 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+1900 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2000 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2100 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2200 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2300 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2400 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2500 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2600 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2700 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2800 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+2900 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+
+
+m_Clauren_Liebe-und-Irrtum_1827 	-->	 w
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+3000 MFW , culled @ 20%,  26 of 28	(92.9%)
+
+General attributive success:  775 of 840 (92.3%)
+
+MFWs from 100 to 3000 @ increment 100
+Culling from 20 to 20 @ increment 20
+Pronouns deleted: FALSE
+

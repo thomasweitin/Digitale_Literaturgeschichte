@@ -1,0 +1,16 @@
+
+
+
+m_Hoelderlin_Hyperions-Jugend_1797 	-->	 w
+w_La-Roche_Sternheim-Teil-1_1771 	-->	 m
+w_La-Roche_Sternheim-Teil-2_1771 	-->	 m
+w_Unger_Bekenntnisse_1806 	-->	 m
+
+170 MFW , culled @ 0%,  11 of 15	(73.3%)
+
+General attributive success:  11 of 15 (73.3%)
+
+MFWs from 170 to 170 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+

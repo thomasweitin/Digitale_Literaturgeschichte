@@ -1,0 +1,14 @@
+
+
+
+m_Novalis_Ofterdingen_1802 	-->	 w
+w_La-Roche_Sternheim-Teil-1_1771 	-->	 m
+
+139 MFW , culled @ 0%,  13 of 15	(86.7%)
+
+General attributive success:  13 of 15 (86.7%)
+
+MFWs from 139 to 139 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+
