@@ -64,7 +64,7 @@ tree <- treedata(phylo = consensus, data = data)
 
 # Anpassung der Visualisierung
 t <- ggtree(tree, layout = "circular", size = 0.1)
-#t <- open_tree(t, angle = 180)
+t <- open_tree(t, angle = 180)
 t + geom_tiplab(size = 0.7, aes(color = data$authors)) +
   scale_color_manual(values = col) +
   # Aeste, die von Interesse sind, werden farblich unterlegt
