@@ -13,6 +13,7 @@
 3. Stilometrie
 
 	Drittes Experiment: Stilometrische Parametermanipulation
+	
 	Viertes Experiment: Zwei Distanzmaße im Vergleich
 
 
@@ -24,4 +25,5 @@
 5. Quantitative Semantik
 
 	Sechstes Experiment: Topic Modeling als Reading at Scale
+	
 	Siebentes Experiment: Semantische Netzwerkmodelle
