@@ -5,6 +5,8 @@ Die hier zu Verfügung gestellten Daten & R-Skripten begleiten das gleichnamige 
 Die im Buch verwendeten Netzwerkmodelle und Visualisierungen sind in den Ordnern "networks" und "plots" abgelegt.
 
 
+## Inhaltsverzeichnis
+
 1. Goethe im kulturellen Gedächtnis des 19. Jahrhunderts
 
 	Erstes Experiment: Wie zentral ist Goethe?
