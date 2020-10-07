@@ -1,6 +1,6 @@
 # Digitale Literaturgeschichte: Eine Versuchsreihe mit 7 Experimenten
 
-Die hier zu Verfügung gestellten Daten & R-Skripten begleiten das gleichnamige Buchprojekt (Thomas Weitin, forthcoming). Die Skripte sind durch eine Nummerierung im Dateinamen dem zugehörigen Buchkapitel zugeordnet, die weitere Nummerierung im Namen verweist auf die Skriptabfolge.
+Die hier zu Verfügung gestellten Daten & R-Skripte gehören zu dem gleichnamigen Buch von Thomas Weitin. Die Skripte sind durch eine Nummerierung im Dateinamen dem zugehörigen Buchkapitel zugeordnet, die weitere Nummerierung im Namen verweist auf die Skriptabfolge.
 
 Die im Buch verwendeten Netzwerkmodelle und Visualisierungen sind in den Ordnern "networks" und "plots" abgelegt.
 
