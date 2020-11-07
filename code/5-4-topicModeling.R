@@ -115,7 +115,7 @@ makeFlexTextChunks <- function (doc_object, chunk_size = 10, percentage = TRUE) 
 #------------------------------------------------------------------------------#
 
 num_topics <- 100
-iteration <- 1000
+iteration <- 10000
 chunk_size <- 500
 num_topic_words <- 100
 
