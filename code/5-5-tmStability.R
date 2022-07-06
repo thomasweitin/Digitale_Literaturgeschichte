@@ -24,7 +24,7 @@
 ## Vorereinstellungen ---------------------------------------------------------#
 #------------------------------------------------------------------------------#
 
-topics <- 100                                                                    
+topics <- 100
 
 corpus <- "Romankorpus_18_Jahrhundert"
 #corpus <- "Romankorpus_1770-1830"
@@ -146,16 +146,17 @@ names(corresponding_topics) <- c("Topic aus Model 1",
                                  "Topic aus Model 2", 
                                  "Übereinstimmende Topic Wörter")
 
-sum <- sum(corresponding_topics[,2])
+sum <- sum(corresponding_topics[,3])
 keyword_stability <- (sum / (topics * 100)) * 100
 corresponding_topics1 <- rbind(corresponding_topics, c(NA, keyword_stability))
 
 write.csv(corresponding_topics1, paste0(path_stability, 
                                         "\\absolut_intersect.csv"))
 
-corresponding_topics[,2] <- (corresponding_topics[,2]/topics)*100
+corresponding_topics[,3] <- (corresponding_topics[,3]/100)*100
 write.csv(corresponding_topics, paste0(path_stability, 
                                        "\\percent_intersect.csv"))
+
 
 ################################################################################
 ################################################################################
